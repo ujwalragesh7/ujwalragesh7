@@ -35,8 +35,6 @@ BCA graduate with hands-on internship experience across Microsoft 365 administra
 
 ### 📫 Reach me
 
-- Portfolio: [add your portfolio link]
-- LinkedIn: [add your LinkedIn link]
 - Email: ujwalragesh007@gmail.com
 
 ---
