@@ -76,9 +76,9 @@ Check out my repositories below to see what I'm building.
 ## 📫 Connect With Me
 
 - 📧 **Email:** ujwalragesh007@gmail.com
-- 💼 **LinkedIn:** [Ujwal K Ragesh](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Ujwal K Ragesh](www.linkedin.com/in/ujwalkragesh)
 - 🌐 **Portfolio:** [ujwalkragesh.vercel.app](https://ujwalkragesh.vercel.app/)
 
 ---
 
-### 📍 Bengaluru, Karnataka • From Kannur, Kerala
+### 📍 Bengaluru, Karnataka 
