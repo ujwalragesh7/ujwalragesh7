@@ -76,7 +76,7 @@ Check out my repositories below to see what I'm building.
 ## 📫 Connect With Me
 
 - 📧 **Email:** ujwalragesh007@gmail.com
-- 💼 **LinkedIn:** [Ujwal K Ragesh](www.linkedin.com/in/ujwalkragesh)
+- 💼 **LinkedIn:** [Ujwal K Ragesh](https://www.linkedin.com/in/ujwalkragesh)
 - 🌐 **Portfolio:** [ujwalkragesh.vercel.app](https://ujwalkragesh.vercel.app/)
 
 ---
