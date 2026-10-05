@@ -8,15 +8,10 @@
 
 **Building systems. Automating infrastructure. Solving problems.**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujwalragesh7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwalkragesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ujwalkragesh.vercel.app/)
-
 <br><br>
 
-`CLOUD` &nbsp; `SYSTEMS` &nbsp; `NETWORKING` &nbsp; `AUTOMATION` &nbsp; `OBSERVABILITY`
+`CLOUD` &nbsp; · &nbsp; `SYSTEMS` &nbsp; · &nbsp; `NETWORKING`
+&nbsp; · &nbsp; `AUTOMATION` &nbsp; · &nbsp; `OBSERVABILITY`
 
 </div>
 
@@ -24,320 +19,94 @@
 
 <div align="center">
 
-## ⚡ INFRASTRUCTURE IS THE FOUNDATION
+## ⚡ INFRASTRUCTURE · AUTOMATION · RELIABILITY
 
 </div>
 
-I work across **cloud infrastructure, systems administration, networking,
-identity, automation and monitoring** — with a practical approach focused
-on understanding how the pieces work together.
+I work across cloud infrastructure, systems administration, networking,
+identity, automation and monitoring — with a practical approach focused
+on understanding how systems work together.
 
-Currently building deeper hands-on capability across **AWS and Azure** while
-working with infrastructure automation, containers, monitoring and
+Currently expanding my hands-on capabilities across **AWS and Azure**,
+with a focus on infrastructure automation, monitoring, containers and
 reliable IT operations.
 
 ---
 
 <div align="center">
 
-# ◈ CAPABILITIES
-
-### THE SYSTEMS I WORK AROUND
+## ◈ CAPABILITIES
 
 </div>
 
-<table>
-<tr>
+**☁ Cloud Infrastructure**  
+Amazon Web Services · Microsoft Azure · Compute · Storage · Networking · IAM · Monitoring
 
-<td width="33%" valign="top">
+**🖥 Systems Administration**  
+Windows Server · Active Directory · RHEL · Ubuntu · Virtualization · Shell Scripting
 
-## ☁️ CLOUD
+**🔐 Microsoft 365 & Identity**  
+Entra ID · Intune · Purview · Defender · RBAC · MFA · Conditional Access
 
-**Microsoft Azure**
+**🌐 Networking**  
+TCP/IP · DNS · DHCP · HTTP/HTTPS · VPN · VLAN · Routing · Switching · Firewalls · NSGs
 
-Virtual Machines  
-Storage  
-Virtual Network  
-Azure Monitor
+**⚙ Infrastructure Automation**  
+Terraform · Python · Bash · Jenkins · Git · GitHub · Infrastructure as Code
 
-**Amazon Web Services**
-
-EC2  
-S3  
-VPC  
-IAM  
-CloudWatch
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🖥️ SYSTEMS
-
-**Windows**
-
-Windows Server  
-Active Directory  
-Hyper-V
-
-**Linux**
-
-RHEL  
-Ubuntu  
-Linux Administration  
-Shell Scripting
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🔐 IDENTITY
-
-**Microsoft 365**
-
-Entra ID  
-Intune  
-Purview  
-Defender  
-Teams  
-SharePoint  
-Exchange
-
-**Access**
-
-RBAC  
-MFA  
-Conditional Access
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-## 🌐 NETWORKING
-
-TCP/IP  
-DNS  
-DHCP  
-HTTP / HTTPS  
-VPN  
-VLAN  
-Routing  
-Switching  
-Firewalls  
-NSGs
-
-</td>
-
-<td width="33%" valign="top">
-
-## ⚙️ AUTOMATION
-
-Terraform  
-Python  
-Bash / Shell
-
-**Delivery**
-
-Jenkins  
-Git  
-GitHub
-
-**Infrastructure as Code**
-
-Provision  
-Configure  
-Automate
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📊 OBSERVABILITY
-
-Prometheus  
-Grafana  
-CloudWatch
-
-Monitoring  
-Metrics  
-Dashboards  
-Troubleshooting  
-Operational visibility
-
-</td>
-
-</tr>
-</table>
+**📊 Observability & Operations**  
+Prometheus · Grafana · CloudWatch · Monitoring · Troubleshooting · Service Operations
 
 ---
 
 <div align="center">
 
-# 🧩 INFRASTRUCTURE STACK
+## 🛰️ THE BUILD LAB
 
-<br>
-
-### CLOUD
-
-`AWS` `Azure`
-
-### SYSTEMS
-
-`Windows Server` `Active Directory` `RHEL` `Ubuntu`
-
-### AUTOMATION
-
-`Terraform` `Python` `Bash` `Jenkins` `Git`
-
-### CONTAINERS
-
-`Docker` `Kubernetes`
-
-### MONITORING
-
-`Prometheus` `Grafana` `CloudWatch`
-
-### WEB & DATA
-
-`Apache` `Tomcat` `MySQL` `PostgreSQL`
+### REAL SYSTEMS · REAL EXPERIMENTS · CONTINUOUS LEARNING
 
 </div>
 
----
-
-<div align="center">
-
-# 🛰️ THE BUILD LAB
-
-### HANDS-ON PROJECTS · REAL SYSTEMS · CONTINUOUS LEARNING
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ CLOUD INFRASTRUCTURE
+### ☁ Cloud Infrastructure
 
 Building and experimenting with cloud infrastructure across AWS and Azure.
 
-**Focus**
+`AWS` `Azure` `Terraform`
 
-`Compute` · `Storage` · `Networking` · `IAM`
+### ⚙ Infrastructure Automation
 
-</td>
+Turning infrastructure requirements into repeatable and manageable configurations.
 
-<td width="50%" valign="top">
+`Terraform` `Python` `Bash` `Jenkins`
 
-### ⚙️ INFRASTRUCTURE AUTOMATION
+### 📊 Monitoring & Observability
 
-Turning infrastructure requirements into repeatable configurations.
+Building visibility into infrastructure, services and application behaviour.
 
-**Focus**
+`Prometheus` `Grafana` `CloudWatch`
 
-`Terraform` · `Python` · `Bash` · `CI/CD`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 MONITORING & OBSERVABILITY
-
-Building visibility into infrastructure and application behaviour.
-
-**Focus**
-
-`Prometheus` · `Grafana` · `CloudWatch`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 CONTAINERS & DEPLOYMENT
+### 🐳 Containers & Deployment
 
 Working with containerized workloads and orchestration.
 
-**Focus**
+`Docker` `Kubernetes`
 
-`Docker` · `Kubernetes`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 IDENTITY & ACCESS
+### 🔐 Identity & Access
 
 Working with Microsoft 365 identity, access and endpoint controls.
 
-**Focus**
-
-`Entra ID` · `Intune` · `Defender` · `RBAC`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 IT OPERATIONS
-
-Troubleshooting infrastructure, applications, connectivity and client issues.
-
-**Focus**
-
-`Windows` · `Linux` · `Networking` · `Service Desk`
-
-</td>
-
-</tr>
-</table>
+`Entra ID` `Intune` `Defender`
 
 ---
 
 <div align="center">
 
-# 🔬 HOW I BUILD
+## 🔬 HOW I BUILD
 
 <br>
 
-**EXPLORE**
-
-↓  
-
-**EXPERIMENT**
-
-↓
-
-**BREAK**
-
-↓
-
-**TROUBLESHOOT**
-
-↓
-
-**AUTOMATE**
-
-↓
-
-**MONITOR**
-
-↓
-
-**IMPROVE**
+**EXPLORE** → **EXPERIMENT** → **TROUBLESHOOT**
+→ **AUTOMATE** → **MONITOR** → **IMPROVE**
 
 </div>
 
@@ -345,74 +114,38 @@ Troubleshooting infrastructure, applications, connectivity and client issues.
 
 <div align="center">
 
-# 🚀 CURRENT FOCUS
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**AWS**
-
-Expanding practical cloud infrastructure skills
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**TERRAFORM**
-
-Infrastructure as Code
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**OBSERVABILITY**
-
-Monitoring & operational visibility
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐳
-
-**CONTAINERS**
-
-Docker & Kubernetes
-
-</td>
-
-</tr>
-</table>
+## 🚀 CURRENT FOCUS
 
 <br>
 
-<div align="center">
+**AWS Cloud** &nbsp; · &nbsp;
+**Terraform** &nbsp; · &nbsp;
+**Monitoring** &nbsp; · &nbsp;
+**Docker** &nbsp; · &nbsp;
+**Kubernetes**
 
-🎓 **Microsoft Certified: Azure Fundamentals**
+<br><br>
 
-`AZ-900`
+🎓 **Microsoft Certified: Azure Fundamentals — AZ-900**
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING MINDSET
+<div align="center">
+
+## 🧠 ENGINEERING MINDSET
+
+<br>
 
 > **Understand the system before automating it.**
 
+<br>
+
+</div>
+
 I enjoy taking infrastructure problems apart, understanding where the
-failure actually lives, and then finding ways to make the solution more
+failure actually lives, and finding ways to make solutions more
 repeatable, observable and reliable.
 
 ---
@@ -458,12 +191,12 @@ The details aren't. Not yet.
 
 <div align="center">
 
-# 🌌 OUTSIDE THE TERMINAL
+## 🌌 OUTSIDE THE TERMINAL
 
 </div>
 
-I enjoy experimenting with technology and turning ideas into working
-systems.
+I enjoy exploring technology, experimenting with new ideas and turning
+concepts into working systems.
 
 Recently, I've been exploring **AI-assisted development and vibe coding** —
 using AI to move from an idea to a working prototype and learn through
@@ -473,15 +206,31 @@ building.
 
 <div align="center">
 
-# 📡 CONNECT
+## 📡 CONNECT
 
 <br>
 
-[📧 Email](mailto:ujwalragesh007@gmail.com)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/ujwalkragesh)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[🌐 Portfolio](https://ujwalkragesh.vercel.app/)
+<a href="mailto:ujwalragesh007@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/ujwalkragesh">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://ujwalkragesh.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/ujwalragesh7">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
@@ -493,7 +242,7 @@ building.
 
 <div align="center">
 
-# ✦ EXPLORE · BUILD · AUTOMATE · REPEAT
+### ✦ EXPLORE · BUILD · AUTOMATE · REPEAT
 
 <br>
 
