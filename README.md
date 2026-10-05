@@ -1,76 +1,43 @@
+<div align="center">
+
 # Hi, I’m Ujwal 👋
 
-### Cloud · Infrastructure · Networking · Automation · Operations
+### Cloud · DevOps · Systems · Networking · Automation
 
-Cloud & DevOps enthusiast focused on building, troubleshooting, automating and improving infrastructure and IT environments.
+Building, troubleshooting and automating systems with a practical, operations-first mindset.
+
+<br>
+
+![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square&logo=icloud&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-1679A7?style=flat-square&logo=cisco&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-326CE5?style=flat-square&logo=ansible&logoColor=white)
+
+</div>
 
 ---
 
 ## ⚡ Quick Facts
 
-| | |
-|---|---|
-| 📍 **Based in** | Bengaluru, India |
-| 🏠 **From** | Kannur, Kerala, India |
-| 🎓 **Education** | BCA · MCA — Cloud Computing |
-| ☁️ **Focus** | Cloud · Infrastructure · DevOps |
-| 🌐 **Core Interests** | Networking · Automation · Systems · Operations |
-| 🐧 **Technical Foundation** | Linux · Networking · Systems |
-| 💻 **Current Direction** | Cloud · Infrastructure · DevOps |
-| ⚽ **Sports** | Football · Badminton · Swimming · Boxing · Martial Arts · Running |
-| 📚 **Currently** | MCA — Cloud Computing |
-| 🌍 **Career Direction** | International Cloud / Infrastructure / DevOps |
+<div align="center">
 
----
+**📍 Bengaluru, India** &nbsp; • &nbsp;
+**🏠 Kannur, Kerala** &nbsp; • &nbsp;
+**🎓 BCA** &nbsp; • &nbsp;
+**☁️ Cloud & DevOps** &nbsp; • &nbsp;
+**🐧 Linux & Systems**
 
-# 🧭 Where My Technical Curiosity Started
+<br>
 
-I was born on **May 14, 2004, in Kannur, Kerala, India**.
+**⚽ Football** &nbsp; • &nbsp;
+**🏸 Badminton** &nbsp; • &nbsp;
+**🏊 Swimming** &nbsp; • &nbsp;
+**🥊 Boxing** &nbsp; • &nbsp;
+**🥋 Martial Arts** &nbsp; • &nbsp;
+**🏃 Running**
 
-I grew up around computers and became curious about how technology worked from an early age.
-
-If a computer, printer or laptop had a problem, my first thought wasn't always to take it to a shop.
-
-I would **check it, try to understand it, and attempt the fix myself**.
-
-Sometimes I knew what I was doing.
-
-Sometimes I didn't.
-
-Sometimes a small problem could become a bigger one because I was learning by trying. I could make a mistake, spend more than expected fixing that mistake, and then understand what actually went wrong.
-
-But that was part of learning.
-
-> **Check. Try. Make mistakes. Understand what happened. Fix it better next time.**
-
-That curiosity eventually moved beyond hardware and into **Linux, networking, systems, cloud and infrastructure**.
-
----
-
-# 🐧 From Linux to Infrastructure
-
-My technical journey started with **Linux before Windows**.
-
-I began working with **Ubuntu** and gradually became interested in how operating systems, servers and networks work underneath the interface.
-
-That introduced me to:
-
-- Linux administration
-- Command-line operations
-- Users and permissions
-- Package management
-- Processes
-- Services
-- Shell scripting
-- Networking
-- SSH
-- System troubleshooting
-
-Later, I expanded into **Windows and Windows Server**, followed by Active Directory, Microsoft 365, Entra ID, identity management and enterprise IT operations.
-
-That gradually developed into my current technical direction:
-
-**Linux → Networking → Systems → Cloud → Automation → DevOps → Operations**
+</div>
 
 ---
 
@@ -78,97 +45,87 @@ That gradually developed into my current technical direction:
 
 My academic journey wasn't completely straightforward.
 
-There was a period during my degree when things went off track, and eventually I had **21 papers to clear**.
+At one stage, I had **14 papers to clear**.
 
-At one point, I had to seriously question where I was heading.
+Instead of treating the situation as one large problem, I identified the pending work, understood the gaps, planned what needed to be completed and executed the plan.
 
-So I stopped looking at the entire problem as one huge thing.
+I cleared **all 14 papers in a single stretch**.
 
-I looked at:
+That experience strengthened something I continue to apply in technical work:
 
-- What was pending
-- What I had failed
-- What needed to be completed
-- Where my gaps were
-- What I needed to study
-- Where to start
-
-I made a plan and worked through the papers **one at a time**.
-
-I completed and cleared **all 21 backlogs in a single stretch**.
-
-That experience taught me how to approach difficult problems professionally:
-
-**Break the problem down. Identify what needs to be done. Build a plan. Execute it. Finish it.**
+> **Understand the problem. Break it down. Plan the execution. Finish it.**
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Computer Applications — BCA
-
-**Sree Narayana Guru College of Advanced Studies, Thottada**  
-Kannur University · 2021–2024
-
 ### Master of Computer Applications — Cloud Computing
-
 **Manipal Academy of Higher Education / Manipal Online**  
 2026–2028 · In Progress
 
----
-
-# 💼 Career Journey
-
-My professional journey has gradually moved from learning infrastructure fundamentals toward cloud, application support, systems and IT operations.
+### Bachelor of Computer Applications
+**Sree Narayana Guru College of Advanced Studies, Thottada**  
+Kannur University · 2021–2024
 
 ---
 
-## ☁️ Cloud Computing Intern
+# 💼 Experience
 
-**BDreamz Global Solutions Pvt. Ltd.**  
-**Jun 2025 – Dec 2025**
+## 🏢 System Engineer Intern / Trainee
 
-This was an important stage in my transition toward Cloud and DevOps.
+**Gruppo Zenit India**  
+**May 2026 – Jul 2026**
 
-I worked around:
+Worked across enterprise IT operations, Microsoft 365, identity, cloud infrastructure and systems.
 
-- Linux administration
-- Users and permissions
-- Shell scripting
+**Microsoft 365 & Identity**
+- Microsoft 365 administration
+- Global Administration
+- Entra ID / Azure AD
+- RBAC
+- MFA
+- Conditional Access
+- Authentication policies
+- Intune
+- Purview
+- Defender
+- Identity management
+
+**Infrastructure**
 - AWS
 - Azure
-- Jenkins
-- Git
-- Docker
-- Terraform
-- Kubernetes
-- Networking
-- Routing
-- Switching
-- VPNs
-- Firewalls
-- Cloud deployment
-- Load balancing
-- Monitoring
+- Windows Server
+- Active Directory
+- VirtualBox
+- Hyper-V
 
-This experience gave me practical exposure to infrastructure and DevOps fundamentals and helped me understand how different infrastructure components fit together.
+**Operations**
+- Jira
+- Freshdesk
+- Service requests
+- Incident management
+- SLA tracking
+- Tenant management
+- Client environments
+- Microsoft Teams
+- Slack
+
+**Application & Network**
+- Apache Tomcat
+- Firewall-related tasks
+- Networking
+- Security-related operations
 
 ---
 
-## 🛠️ Application Support
-
-### Application Support Intern / Application Support Engineer
+## 🛠️ Application Support Intern / Application Support Engineer
 
 **5C Network Pvt. Ltd.**  
 **Dec 2025 – Mar 2026**
 
-One of my early career milestones was getting selected for my first salaried job.
+Out of **23 candidates, I was selected for my first salaried job**.
 
-**Out of 23 candidates, I was selected.**
-
-The role gave me practical experience in real-world application and infrastructure support.
-
-I worked with:
+Worked across application, server and network support environments.
 
 - Application deployment
 - Linux and Windows servers
@@ -197,65 +154,33 @@ I worked with:
 - Client communication
 - Cross-team collaboration
 
-The experience helped me understand that infrastructure isn't only about building systems.
-
-It is also about **keeping them available, investigating failures and supporting the people who depend on them**.
-
 ---
 
-## 🏢 System Engineering & IT Operations
+## ☁️ Cloud Computing Intern
 
-### System Engineer Intern / Trainee
+**BDreamz Global Solutions Pvt. Ltd.**  
+**Jun 2025 – Dec 2025**
 
-**Gruppo Zenit India**  
-**May 2026 – Jul 2026**
+Built foundational hands-on experience across cloud, Linux, DevOps and networking.
 
-This stage expanded my exposure into enterprise IT operations, identity, Microsoft 365 and cloud infrastructure.
-
-### Microsoft 365 & Identity
-
-- Microsoft 365 administration
-- Global Administration
-- Entra ID / Azure AD
-- RBAC
-- MFA
-- Conditional Access
-- Authentication policies
-- Intune
-- Purview
-- Defender
-- Identity management
-
-### Infrastructure
-
+- Linux administration
+- Users and permissions
+- Shell scripting
 - AWS
 - Azure
-- Windows Server
-- Active Directory
-- VirtualBox
-- Hyper-V
-
-### Operations
-
-- Jira
-- Freshdesk
-- Service requests
-- Incident management
-- SLA tracking
-- Tenant management
-- Client environments
-- Teams
-- Slack
-- Cross-team coordination
-
-### Application & Network Infrastructure
-
-- Apache Tomcat
-- Firewall-related tasks
+- Jenkins
+- Git
+- Docker
+- Terraform
+- Kubernetes
 - Networking
-- Security-related operations
-
-This experience expanded my understanding of infrastructure beyond servers and cloud resources into **identity, endpoints, applications, networks, security and service delivery**.
+- Routing
+- Switching
+- VPNs
+- Firewalls
+- Cloud deployment
+- Load balancing
+- Monitoring
 
 ---
 
@@ -298,11 +223,9 @@ This experience expanded my understanding of infrastructure beyond servers and c
 
 ## Google Cloud
 
-Fundamental exposure to:
-
 - Compute Engine
 - Cloud Storage
-- Cloud concepts
+- Cloud fundamentals
 - Cloud deployment models
 
 ---
@@ -470,8 +393,8 @@ Fundamental exposure to:
 
 - MySQL
 - PostgreSQL
-- Database fundamentals
 - SQL
+- Database fundamentals
 - Application/database connectivity
 
 ---
@@ -485,72 +408,21 @@ Fundamental exposure to:
 - HTML
 - JavaScript
 
-My primary use of programming and scripting is around **automation, infrastructure, troubleshooting, tooling and practical application development**.
-
 ---
 
 # 🧰 Commands & Tools I’ve Worked With
 
-## Networking & Troubleshooting
+### Networking
 
-- `ping`
-- `tracert`
-- `traceroute`
-- `ipconfig`
-- `ifconfig`
-- `ip addr`
-- `nslookup`
-- `dig`
-- `telnet`
-- `netstat`
-- `route`
+`ping` · `tracert` · `traceroute` · `ipconfig` · `ifconfig` · `ip addr` · `nslookup` · `dig` · `telnet` · `netstat` · `route`
 
-## Remote Access & File Transfer
+### Remote Access
 
-- `ssh`
-- `scp`
-- `sftp`
+`ssh` · `scp` · `sftp`
 
-## Infrastructure & Cloud CLI
+### Infrastructure & Cloud
 
-- AWS CLI
-- Terraform CLI
-- kubectl
-- Docker CLI
-- Git
-
-For me, knowing a command isn't the important part.
-
-The important part is knowing **what problem the command can help investigate**.
-
----
-
-# 🔐 IT Operations & Support
-
-My experience also includes the operational side of technology:
-
-- Incident management
-- Service requests
-- Alert handling
-- SLA tracking
-- Ticket ownership
-- Escalation handling
-- Root-cause investigation
-- Documentation
-- Knowledge-base creation
-- Client communication
-- Cross-team collaboration
-- Cross-timezone support
-- Application troubleshooting
-- Infrastructure troubleshooting
-
-### Tools
-
-- Jira
-- Freshdesk
-- Microsoft Teams
-- Slack
-- AnyDesk
+`aws` · `terraform` · `kubectl` · `docker` · `git`
 
 ---
 
@@ -562,15 +434,13 @@ My experience also includes the operational side of technology:
 
 An EV support system designed to help users locate nearby charging stations and submit emergency charging requests.
 
-The system included:
-
+**Modules**
 - Admin
 - Station
 - Staff
 - User
 
-Core functionality included:
-
+**Features**
 - Charging-station discovery
 - Emergency charging requests
 - Request management
@@ -578,8 +448,7 @@ Core functionality included:
 - Staff assignment
 - Feedback
 
-### Technologies
-
+**Technologies**
 - Android Java
 - Python
 - Django
@@ -591,14 +460,9 @@ Core functionality included:
 
 ## 💰 LifeOS — Personal Expense Tracker
 
-A personal application that started with a straightforward requirement:
+A personal application focused on financial tracking and practical application development.
 
-**Track finances properly.**
-
-The project has grown into a broader personal development environment.
-
-### Technology
-
+**Technology**
 - Node.js
 - PostgreSQL
 - Docker
@@ -606,16 +470,13 @@ The project has grown into a broader personal development environment.
 - Structured development workflow
 - AI-assisted development
 
-The project gives me a practical environment to work with backend development, databases, containerization, version control and application development.
-
 ---
 
 ## 📡 PulseCheck
 
-A serverless monitoring platform built around AWS.
+A serverless monitoring platform built around AWS services.
 
-### Technologies
-
+**Technologies**
 - AWS Lambda
 - EventBridge Scheduler
 - AWS Amplify
@@ -623,21 +484,25 @@ A serverless monitoring platform built around AWS.
 - Git
 - GitHub
 
-The project focuses on scheduled health checks and monitoring status, using AWS scheduling and serverless components to perform checks and verify system state.
+**Focus**
+- Scheduled health checks
+- Monitor status
+- Serverless execution
+- Scheduled automation
+- Deployment verification
 
 ---
 
 ## ✉️ Signal
 
-A Gmail outreach automation platform built using:
+A Gmail outreach automation platform using:
 
 - Web frontend
 - Google Apps Script
 - Gmail API
 - Google Sheets
 
-The system includes:
-
+**Features**
 - Prioritized email sending
 - Bulk outreach
 - Follow-ups
@@ -645,57 +510,39 @@ The system includes:
 - Daily send-limit enforcement
 - Global emergency stop
 
-The project gave me experience in designing automation around **scheduling, limits, controls and operational safety**.
-
 ---
 
 ## 🔒 Private Projects
 
-Some of my work is intentionally private.
-
-Those projects are part of my technical development, but their internal purpose, architecture, workflows and implementation are not publicly documented.
+Some projects I work on are intentionally private and are not publicly documented.
 
 ---
 
 # 🧠 How I Work
 
-**Understand the problem**
+<div align="center">
 
-↓
+**Understand** → **Investigate** → **Troubleshoot** → **Build** → **Test** → **Document** → **Improve**
 
-**Investigate the environment**
+</div>
 
-↓
+I approach technical problems by understanding the environment first, isolating the cause, applying a controlled solution and validating the result.
 
-**Identify the cause**
+---
 
-↓
+# 💡 My Strength
 
-**Troubleshoot systematically**
+I'm a **self-starter** with a positive attitude.
 
-↓
+When something doesn't go as planned, I focus on what can be done next rather than staying stuck on the problem.
 
-**Build or implement the solution**
-
-↓
-
-**Test the result**
-
-↓
-
-**Document what changed**
-
-↓
-
-**Improve and automate**
+I prefer to start, learn through execution, and keep improving.
 
 ---
 
 # 🎯 Currently Working On
 
-My current technical focus is around:
-
-- Cloud infrastructure
+- Cloud
 - DevOps
 - Linux
 - Networking
@@ -709,132 +556,37 @@ My current technical focus is around:
 - System troubleshooting
 - Practical infrastructure projects
 
-Alongside this, I am continuing my **MCA in Cloud Computing**.
+---
+
+# 🏅 Certification
+
+### Microsoft Certified: Azure Fundamentals — AZ-900
 
 ---
 
-# 📚 Learning & Growth
+# 📊 Technical Snapshot
 
-I'm continuously strengthening the areas that connect infrastructure, development and operations.
+<div align="center">
 
-**Cloud**
+**AWS** · **Azure** · **GCP**  
+**Terraform** · **Ansible**  
+**Docker** · **Kubernetes**  
+**Jenkins** · **Git** · **GitHub Actions**  
+**Linux** · **Windows Server**  
+**Networking** · **Identity & Access**  
+**CloudWatch** · **Azure Monitor** · **Prometheus** · **Grafana**  
+**Python** · **Bash** · **PowerShell**  
+**MySQL** · **PostgreSQL**
 
-**Linux**
-
-**Networking**
-
-**Infrastructure**
-
-**Automation**
-
-**Security**
-
-**Observability**
-
-**DevOps**
-
-My goal isn't simply to collect technologies.
-
-I want to understand **how they work together, how they fail and how they can be improved**.
-
----
-
-# 🏆 What I’m Proud Of
-
-### The Comeback
-
-Clearing **21 papers in a single stretch** after reaching a difficult academic point.
-
-### Getting Selected
-
-Being selected **out of 23 candidates** for my first salaried job.
-
-### Moving Into Cloud
-
-Building my own path from a BCA background into cloud, infrastructure and DevOps.
-
-### Learning Through Projects
-
-Turning what I learn into practical systems rather than stopping at tutorials.
-
-### Staying Curious
-
-The same curiosity that made me investigate computer problems early on is still part of how I approach infrastructure today.
-
----
-
-# 🏅 Achievements & Certifications
-
-### Education
-
-- Bachelor of Computer Applications
-- Master of Computer Applications — Cloud Computing, in progress
-
-### Cloud
-
-- Microsoft Certified: Azure Fundamentals — AZ-900
-- AWS Certified Cloud Practitioner — In Progress
-
-### Networking
-
-- CCNA — In Progress
-
-### Additional Knowledge
-
-- AWS fundamentals
-- Azure fundamentals
-- GCP fundamentals
-- Linux administration
-- Microsoft 365 administration
-- Identity & access management
-- Networking
-- Infrastructure as Code
-- Containers
-- Kubernetes
-- CI/CD
-- Monitoring & observability
-- Cloud security
-- Cost management
-
----
-
-# 📊 At a Glance
-
-**Cloud:** AWS · Azure · GCP
-
-**Infrastructure:** Terraform · Ansible
-
-**Containers:** Docker · Kubernetes
-
-**CI/CD:** Jenkins · GitHub Actions · Git
-
-**Operating Systems:** Linux · Windows Server
-
-**Networking:** TCP/IP · DNS · DHCP · VLAN · Routing · Switching · VPN · Firewall
-
-**Identity:** Entra ID · Active Directory · RBAC · MFA · Conditional Access
-
-**Monitoring:** CloudWatch · Azure Monitor · Prometheus · Grafana
-
-**Servers:** Apache · Apache Tomcat
-
-**Databases:** MySQL · PostgreSQL
-
-**Scripting:** Python · Bash · PowerShell
-
-**IT Operations:** Jira · Freshdesk · Teams · Slack
+</div>
 
 ---
 
 # 🌍 Beyond Tech
 
-Technology is a major part of my life, but I also enjoy getting away from the screen.
-
 ### ✈️ Travel
 
-Travel is one of my biggest interests.
-
-I enjoy discovering **places, mountains, beaches, culture, food, people and languages**.
+Travel is one of my biggest interests. I enjoy discovering places, mountains, beaches, culture, food, people and languages.
 
 ### 📷 Photography
 
@@ -842,23 +594,15 @@ I enjoy photography, especially while travelling and exploring new places.
 
 ### ⚽ Sports
 
-- Football
-- Badminton
-- Swimming
-- Boxing
-- Martial Arts
-- Running
+**Football** · **Badminton** · **Swimming** · **Boxing** · **Martial Arts** · **Running**
 
-**Longest single-stretch run: 13 km**
+🏃 **Longest single-stretch run: 13 km**
 
 ---
 
 # 🌐 Languages
 
-- English
-- Malayalam
-- Hindi
-- Tamil
+**English** · **Malayalam** · **Hindi** · **Tamil**
 
 ---
 
@@ -898,36 +642,42 @@ Varanasi.
 
 # 🌎 What’s Next
 
-My long-term direction is toward **international opportunities in Cloud, Infrastructure and DevOps**.
+My long-term goal is to grow into stronger **international technology opportunities**, particularly around systems, DevOps, automation and large-scale environments.
 
-The United States is my dream work destination, while I am also open to opportunities in Australia, the UK and other strong technology markets.
-
-I want to continue growing through increasingly complex infrastructure, stronger engineering environments, automation and real-world operational experience.
-
-The goal is not simply to know more tools.
-
-The goal is to become someone who can **understand systems, solve difficult problems, build reliable infrastructure and keep improving them**.
+I want to keep taking on more complex technical problems, work with strong engineering teams and continue building practical experience.
 
 ---
 
-# 🤝 Let’s Connect
+# 🤝 Connect
 
-I'm interested in connecting with people working around:
+<div align="center">
 
-**Cloud · DevOps · Infrastructure · Networking · Automation · IT Operations**
+<a href="https://github.com/ujwalragesh7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-I'm always open to meaningful technical conversations, new ideas, projects, troubleshooting challenges and opportunities to learn from other engineers.
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-### Ujwal K Ragesh
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
-**Cloud · Infrastructure · Networking · Automation · Operations**
+<a href="YOUR_CREDLY_URL">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+</a>
 
-📍 Bengaluru, India
+<a href="mailto:ujwalragesh007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-📧 ujwalragesh007@gmail.com
+</div>
 
 ---
+
+<div align="center">
 
 ### Build. Break. Learn. Fix. Automate. Repeat. 🚀
 
-**Thanks for visiting my profile.**
+</div>
