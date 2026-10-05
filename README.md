@@ -1,502 +1,84 @@
-<div align="center">
+# Hi, I'm Ujwal Ragesh 👋
 
-# UJWAL
+### Cloud Infrastructure • IT Systems Administration • Microsoft 365 & Identity
 
-### CLOUD INFRASTRUCTURE · SYSTEMS · OPERATIONS
+BCA graduate with hands-on experience across Microsoft 365 administration, identity and access management, Windows Server environments, and IT operations.
 
-<br>
-
-**Building systems. Automating infrastructure. Solving problems.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujwalragesh7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwalkragesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ujwalkragesh.vercel.app/)
-
-<br><br>
-
-`CLOUD` &nbsp; `SYSTEMS` &nbsp; `NETWORKING` &nbsp; `AUTOMATION` &nbsp; `OBSERVABILITY`
-
-</div>
+Currently building practical cloud and infrastructure skills across AWS and Azure, with a focus on automation, monitoring, reliable IT operations, and hands-on learning.
 
 ---
 
-<div align="center">
+## 🔧 What I Work With
 
-## ⚡ INFRASTRUCTURE IS THE FOUNDATION
+### Microsoft 365 & Identity
+`Microsoft Entra ID` `Microsoft Intune` `Microsoft Purview` `Microsoft Defender` `Microsoft Teams` `SharePoint Online` `Exchange Online`
 
-</div>
+### Systems
+`Windows Server` `Active Directory` `Red Hat Enterprise Linux` `Ubuntu`
 
-I work across **cloud infrastructure, systems administration, networking,
-identity, automation and monitoring** — with a practical approach focused
-on understanding how the pieces work together.
+### Cloud
+`Amazon EC2` `Amazon S3` `Amazon VPC` `AWS IAM` `Amazon CloudWatch`  
+`Azure Virtual Machines` `Azure Storage` `Azure Virtual Network` `Azure Monitor`
 
-Currently building deeper hands-on capability across **AWS and Azure** while
-working with infrastructure automation, containers, monitoring and
-reliable IT operations.
+### Networking
+`TCP/IP` `DNS` `DHCP` `VPN` `VLAN` `Routing` `Switching` `Firewalls`
 
----
-
-<div align="center">
-
-# ◈ CAPABILITIES
-
-### THE SYSTEMS I WORK AROUND
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-## ☁️ CLOUD
-
-**Microsoft Azure**
-
-Virtual Machines  
-Storage  
-Virtual Network  
-Azure Monitor
-
-**Amazon Web Services**
-
-EC2  
-S3  
-VPC  
-IAM  
-CloudWatch
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🖥️ SYSTEMS
-
-**Windows**
-
-Windows Server  
-Active Directory  
-Hyper-V
-
-**Linux**
-
-RHEL  
-Ubuntu  
-Linux Administration  
-Shell Scripting
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🔐 IDENTITY
-
-**Microsoft 365**
-
-Entra ID  
-Intune  
-Purview  
-Defender  
-Teams  
-SharePoint  
-Exchange
-
-**Access**
-
-RBAC  
-MFA  
-Conditional Access
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-## 🌐 NETWORKING
-
-TCP/IP  
-DNS  
-DHCP  
-HTTP / HTTPS  
-VPN  
-VLAN  
-Routing  
-Switching  
-Firewalls  
-NSGs
-
-</td>
-
-<td width="33%" valign="top">
-
-## ⚙️ AUTOMATION
-
-Terraform  
-Python  
-Bash / Shell
-
-**Delivery**
-
-Jenkins  
-Git  
-GitHub
-
-**Infrastructure as Code**
-
-Provision  
-Configure  
-Automate
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📊 OBSERVABILITY
-
-Prometheus  
-Grafana  
-CloudWatch
-
-Monitoring  
-Metrics  
-Dashboards  
-Troubleshooting  
-Operational visibility
-
-</td>
-
-</tr>
-</table>
+### Tools & Platforms
+`Jira` `Freshdesk` `Git` `GitHub` `VirtualBox` `Hyper-V` `Python` `Bash` `Terraform`
 
 ---
 
-<div align="center">
+## 🚀 Currently
 
-# 🧩 INFRASTRUCTURE STACK
-
-<br>
-
-### CLOUD
-
-`AWS` `Azure`
-
-### SYSTEMS
-
-`Windows Server` `Active Directory` `RHEL` `Ubuntu`
-
-### AUTOMATION
-
-`Terraform` `Python` `Bash` `Jenkins` `Git`
-
-### CONTAINERS
-
-`Docker` `Kubernetes`
-
-### MONITORING
-
-`Prometheus` `Grafana` `CloudWatch`
-
-### WEB & DATA
-
-`Apache` `Tomcat` `MySQL` `PostgreSQL`
-
-</div>
+- 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- ☁️ Building practical **AWS Cloud** skills
+- 🌱 Learning **Infrastructure as Code with Terraform**
+- 🛠️ Building hands-on cloud infrastructure, monitoring, and automation projects
+- 💼 Open to full-time opportunities in **Cloud Infrastructure, IT Systems Administration, and IT Operations**
 
 ---
 
-<div align="center">
+## 📌 Areas of Interest
 
-# 🛰️ THE BUILD LAB
-
-### HANDS-ON PROJECTS · REAL SYSTEMS · CONTINUOUS LEARNING
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ CLOUD INFRASTRUCTURE
-
-Building and experimenting with cloud infrastructure across AWS and Azure.
-
-**Focus**
-
-`Compute` · `Storage` · `Networking` · `IAM`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ INFRASTRUCTURE AUTOMATION
-
-Turning infrastructure requirements into repeatable configurations.
-
-**Focus**
-
-`Terraform` · `Python` · `Bash` · `CI/CD`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 MONITORING & OBSERVABILITY
-
-Building visibility into infrastructure and application behaviour.
-
-**Focus**
-
-`Prometheus` · `Grafana` · `CloudWatch`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 CONTAINERS & DEPLOYMENT
-
-Working with containerized workloads and orchestration.
-
-**Focus**
-
-`Docker` · `Kubernetes`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 IDENTITY & ACCESS
-
-Working with Microsoft 365 identity, access and endpoint controls.
-
-**Focus**
-
-`Entra ID` · `Intune` · `Defender` · `RBAC`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 IT OPERATIONS
-
-Troubleshooting infrastructure, applications, connectivity and client issues.
-
-**Focus**
-
-`Windows` · `Linux` · `Networking` · `Service Desk`
-
-</td>
-
-</tr>
-</table>
+- Cloud Infrastructure
+- IT Systems Administration
+- Microsoft 365 & Identity
+- Windows & Linux Administration
+- Cloud Monitoring & Operations
+- Infrastructure Automation
+- Infrastructure as Code
+- DevOps
 
 ---
 
-<div align="center">
+## 💡 Outside of Work
 
-# 🔬 HOW I BUILD
-
-<br>
-
-**EXPLORE**
-
-↓  
-
-**EXPERIMENT**
-
-↓
-
-**BREAK**
-
-↓
-
-**TROUBLESHOOT**
-
-↓
-
-**AUTOMATE**
-
-↓
-
-**MONITOR**
-
-↓
-
-**IMPROVE**
-
-</div>
+I enjoy exploring new ways of building and experimenting with technology.  
+Recently, I've been interested in **vibe coding** — using AI-assisted development to quickly turn ideas into working projects and learn by building.
 
 ---
 
-<div align="center">
+## 📂 Projects
 
-# 🚀 CURRENT FOCUS
+I build hands-on projects focused on:
 
-</div>
+- ☁️ Cloud infrastructure and services
+- 📊 Monitoring and observability
+- ⚙️ Infrastructure automation
+- 🐳 Containers and deployment
+- 🔐 Identity and access management
+- 🛠️ IT operations and troubleshooting
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**AWS**
-
-Expanding practical cloud infrastructure skills
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**TERRAFORM**
-
-Infrastructure as Code
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**OBSERVABILITY**
-
-Monitoring & operational visibility
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐳
-
-**CONTAINERS**
-
-Docker & Kubernetes
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-🎓 **Microsoft Certified: Azure Fundamentals**
-
-`AZ-900`
-
-</div>
+Check out my repositories below to see what I'm building.
 
 ---
 
-# 🧠 ENGINEERING MINDSET
+## 📫 Connect With Me
 
-> **Understand the system before automating it.**
-
-I enjoy taking infrastructure problems apart, understanding where the
-failure actually lives, and then finding ways to make the solution more
-repeatable, observable and reliable.
+- 📧 **Email:** ujwalragesh007@gmail.com
+- 💼 **LinkedIn:** [Ujwal K Ragesh](https://www.linkedin.com/in/ujwalkragesh)
+- 🌐 **Portfolio:** [ujwalkragesh.vercel.app](https://ujwalkragesh.vercel.app/)
 
 ---
 
-<div align="center">
-
-# ◈ OPSFLOW.DEV
-
-### SOMETHING BIGGER IS TAKING SHAPE.
-
-<br>
-
-**Infrastructure is only the beginning.**
-
-<br>
-
-Something is being built where
-
-`CLOUD` · `AUTOMATION` · `INTELLIGENCE` · `OPERATIONS`
-
-meet.
-
-<br><br>
-
-### `ARCHITECTING` · `AUTOMATING` · `EVOLVING`
-
-<br>
-
-## ⏳ EXPECTED REVEAL · 2028
-
-<br>
-
-<sub>
-
-The name is public.<br>
-The details aren't. Not yet.
-
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌌 OUTSIDE THE TERMINAL
-
-</div>
-
-I enjoy experimenting with technology and turning ideas into working
-systems.
-
-Recently, I've been exploring **AI-assisted development and vibe coding** —
-using AI to move from an idea to a working prototype and learn through
-building.
-
----
-
-<div align="center">
-
-# 📡 CONNECT
-
-<br>
-
-[📧 Email](mailto:ujwalragesh007@gmail.com)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/ujwalkragesh)
-&nbsp;&nbsp; · &nbsp;&nbsp;
-[🌐 Portfolio](https://ujwalkragesh.vercel.app/)
-
-<br><br>
-
-📍 **Bengaluru, Karnataka**
-
-</div>
-
----
-
-<div align="center">
-
-# ✦ EXPLORE · BUILD · AUTOMATE · REPEAT
-
-<br>
-
-<sub>Continuous learning · Real-world impact</sub>
-
-</div>ther is many repetive things i cnatb i cnant say each i will telle xapomle that likendin my socil porfile keep the top deisgn ed oenw ith logo but chneg the psootion to down and after that soem box es are there make it very very neat and clena no need that box 3 cloumn diesgn thing rest all good also keep the text size litle less its too much
+### 📍 Bengaluru, Karnataka 
