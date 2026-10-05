@@ -1,84 +1,300 @@
-# Hi, I'm Ujwal Ragesh 👋
+<div align="center">
 
-### Cloud Infrastructure • IT Systems Administration • Microsoft 365 & Identity
+<img src="./assets/hero.svg" width="100%" alt="Ujwal Ragesh — Cloud Infrastructure & IT Systems">
 
-BCA graduate with hands-on experience across Microsoft 365 administration, identity and access management, Windows Server environments, and IT operations.
+<br>
 
-Currently building practical cloud and infrastructure skills across AWS and Azure, with a focus on automation, monitoring, reliable IT operations, and hands-on learning.
+# `UJWAL RAGESH`
 
----
+### CLOUD INFRASTRUCTURE · IT SYSTEMS · AUTOMATION
 
-## 🔧 What I Work With
+<p>
+Building infrastructure for a better tomorrow.
+</p>
 
-### Microsoft 365 & Identity
-`Microsoft Entra ID` `Microsoft Intune` `Microsoft Purview` `Microsoft Defender` `Microsoft Teams` `SharePoint Online` `Exchange Online`
+<br>
 
-### Systems
-`Windows Server` `Active Directory` `Red Hat Enterprise Linux` `Ubuntu`
+<a href="https://github.com/ujwalragesh7">
+<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ujwalkragesh">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://ujwalkragesh.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-### Cloud
-`Amazon EC2` `Amazon S3` `Amazon VPC` `AWS IAM` `Amazon CloudWatch`  
-`Azure Virtual Machines` `Azure Storage` `Azure Virtual Network` `Azure Monitor`
+</div>
 
-### Networking
-`TCP/IP` `DNS` `DHCP` `VPN` `VLAN` `Routing` `Switching` `Firewalls`
-
-### Tools & Platforms
-`Jira` `Freshdesk` `Git` `GitHub` `VirtualBox` `Hyper-V` `Python` `Bash` `Terraform`
-
----
-
-## 🚀 Currently
-
-- 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- ☁️ Building practical **AWS Cloud** skills
-- 🌱 Learning **Infrastructure as Code with Terraform**
-- 🛠️ Building hands-on cloud infrastructure, monitoring, and automation projects
-- 💼 Open to full-time opportunities in **Cloud Infrastructure, IT Systems Administration, and IT Operations**
+<br>
 
 ---
 
-## 📌 Areas of Interest
+<div align="center">
 
-- Cloud Infrastructure
-- IT Systems Administration
-- Microsoft 365 & Identity
-- Windows & Linux Administration
-- Cloud Monitoring & Operations
-- Infrastructure Automation
-- Infrastructure as Code
-- DevOps
+### ⚡ BUILD · AUTOMATE · MONITOR · IMPROVE
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ☁️ CLOUD
+
+**AWS**
+
+`EC2` · `S3` · `VPC` · `IAM` · `CloudWatch`
+
+**Azure**
+
+`VM` · `Storage` · `Virtual Network` · `Monitor`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🖥️ SYSTEMS
+
+**Windows**
+
+`Windows Server` · `Active Directory`
+
+**Linux**
+
+`RHEL` · `Ubuntu`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔐 IDENTITY
+
+`Microsoft Entra ID`
+
+`Microsoft Intune`
+
+`Microsoft Purview`
+
+`Microsoft Defender`
+
+`Microsoft Teams`
+
+`SharePoint Online`
+
+`Exchange Online`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 NETWORKING
+
+`TCP/IP`
+
+`DNS` · `DHCP`
+
+`VPN` · `VLAN`
+
+`Routing` · `Switching`
+
+`Firewalls`
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 💡 Outside of Work
+# 🚀 CURRENTLY
 
-I enjoy exploring new ways of building and experimenting with technology.  
-Recently, I've been interested in **vibe coding** — using AI-assisted development to quickly turn ideas into working projects and learn by building.
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### ☁️
+
+**AWS**
+
+Cloud Infrastructure
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**Terraform**
+
+Infrastructure as Code
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊
+
+**Monitoring**
+
+Observability
+
+</td>
+
+<td align="center" width="20%">
+
+### 🐳
+
+**Containers**
+
+Deployment
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔧
+
+**Automation**
+
+IT Operations
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🎓 MICROSOFT CERTIFIED: AZURE FUNDAMENTALS
+
+`AZ-900`
+
+<br><br>
+
+☁️ Building practical AWS Cloud skills  
+⚙️ Learning Infrastructure as Code with Terraform  
+📊 Building monitoring and automation projects  
+💼 Open to Cloud Infrastructure, IT Systems Administration & IT Operations
+
+</div>
+
+<br>
 
 ---
 
-## 📂 Projects
+# 🧠 WHAT I WORK WITH
 
-I build hands-on projects focused on:
+<table>
+<tr>
 
-- ☁️ Cloud infrastructure and services
-- 📊 Monitoring and observability
-- ⚙️ Infrastructure automation
-- 🐳 Containers and deployment
-- 🔐 Identity and access management
-- 🛠️ IT operations and troubleshooting
+<td width="20%" align="center">
 
-Check out my repositories below to see what I'm building.
+### ☁️
+
+**CLOUD**
+
+AWS  
+Azure
+
+</td>
+
+<td width="20%" align="center">
+
+### 🖥️
+
+**SYSTEMS**
+
+Windows  
+Linux
+
+</td>
+
+<td width="20%" align="center">
+
+### 🔐
+
+**IDENTITY**
+
+Microsoft 365  
+Entra ID
+
+</td>
+
+<td width="20%" align="center">
+
+### 🌐
+
+**NETWORK**
+
+TCP/IP  
+DNS · DHCP
+
+</td>
+
+<td width="20%" align="center">
+
+### ⚙️
+
+**AUTOMATION**
+
+Terraform  
+Python · Bash
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- 📧 **Email:** ujwalragesh007@gmail.com
-- 💼 **LinkedIn:** [Ujwal K Ragesh](https://www.linkedin.com/in/ujwalkragesh)
-- 🌐 **Portfolio:** [ujwalkragesh.vercel.app](https://ujwalkragesh.vercel.app/)
+# 🛰️ THE LAB
 
----
+### REAL SYSTEMS · REAL EXPERIMENTS · REAL LEARNING
 
-### 📍 Bengaluru, Karnataka 
+</div>
+
+<br>
+
+```text
+                         ┌───────────────────┐
+                         │       CLOUD       │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                    ┌───────────────────────────┐
+                    │      INFRASTRUCTURE       │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                    ┌───────────────────────────┐
+                    │        AUTOMATION         │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                    ┌───────────────────────────┐
+                    │        MONITORING         │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                    ┌───────────────────────────┐
+                    │        RELIABILITY        │
+                    └───────────────────────────┘
