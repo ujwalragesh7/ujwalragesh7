@@ -81,4 +81,4 @@ Check out my repositories below to see what I'm building.
 
 ---
 
-### 📍 Bengaluru, Karnataka 
+### 📍 Bengaluru, Karnataka
